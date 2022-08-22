@@ -1,4 +1,3 @@
-import './App.css';
 import React from 'react';
 import { createGlobalStyle } from 'styled-components';
 import TodoTemplate from './components/TodoTemplate';
